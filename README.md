@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **PostgreSQL, ReactJS, NextJS, React Native**
 
-- 📫 How to reach me **piolawrence.burgos@wvsu.edu.ph**
+- 📫 How to reach me **piolawrenceburgos@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
